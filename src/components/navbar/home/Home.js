@@ -26,16 +26,10 @@ function Home() {
     <div className="overlay"></div>
     <div className="content">
 
-<form className ="form">
-<div>
-<input type="text" placeholder='Search Product..' />
-</div>
-<div>
-<button><AiOutlineSearch className='icon'/></button>
-</div>
 
 
-</form>
+
+
     </div>
     </div>
   )

@@ -1,0 +1,36 @@
+.kategories {
+    width: 100%;
+    text-align: center;
+    padding: 10rem 0;
+    text-decoration-line: underline;
+    
+}
+.img-container {
+padding: 4rem;
+    background-image: conic-gradient(red, green);
+    border-image: double blue;
+    border-bottom-color: rgba(0, 255, 0, 0.5);
+    border-top-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    background-size: auto;
+}
+.kategories a {
+    padding: 4rem;
+}
+.kategories a {
+    padding: 2rem;
+}
+.kategories img {
+    width: 40%;
+    height: 120%;
+    object-fit: cover;
+    width: 200px;
+    height: 80%;
+    border: 10px solid rgb(251, 250, 250);
+    border-radius: 50%;
+    backdrop-filter: brightness(0%);
+    }
+
+    .kategories img:hover{
+    transform: scale(1.1);
+}
